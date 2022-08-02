@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nada Eletr 👩🏻‍💻</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
-<p><img align="right" src="https://github.com/NadaEletr/nadaeletr/blob/main/github.gif" width="500" height="320"/></p>
+
 - I 💖 Programming 
 
 - 🌱 I’m currently learning **Js , Angular , Flutter**
