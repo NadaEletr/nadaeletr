@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nada Eletr 👩🏻‍💻</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
-
+<p><img align="right" src="https://github.com/NadaEletr/nadaeletr/blob/main/github.gif" width="500" height="320"/></p>
 - I 💖 Programming 
 
 - 🌱 I’m currently learning **Js , Angular , Flutter**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nada.eletr@gmail.com**
 
-<p><img align="right" src="" width="500" height="320"/></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nada el-etr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada el-etr" height="30" width="40" /></a>
